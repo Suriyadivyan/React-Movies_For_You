@@ -1,0 +1,125 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "admin",
+      "email": "admin@gmail.com",
+      "password": "admin123",
+      "role": "admin"
+    },
+    {
+      "id": "54199b0e-df5d-4765-a552-5fa238eb5750",
+      "username": "siva",
+      "email": "siva@gmail",
+      "password": "123456",
+      "role": "user"
+    }
+  ],
+  "movies": [
+    {
+      "id": "1",
+      "title": "Inception",
+      "image": "https://image.tmdb.org/t/p/w500/edv5CZvWj09upOsy2Y6IwDhK8bt.jpg"
+    },
+    {
+      "id": "8468",
+      "title": "Sinners",
+      "image": "https://resizing.flixster.com/VR3Tfr9zpNllsU6RchvnbhGmPkc=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2VhOTdiZDNjLTlmODQtNGNlYi1iZWYwLWNkYjY2YmI5YzZjYS5qcGc="
+    },
+    {
+      "id": "6968",
+      "title": "Black Panther",
+      "image": "https://4kwallpapers.com/images/wallpapers/black-panther-2048x2048-13195.jpg"
+    },
+    {
+      "id": "c038",
+      "title": "Interstellar",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5wx48Q_NQ2YNW2l0JUKfZKYMdQSD08O5kiA&s"
+    },
+    {
+      "id": "dbb1",
+      "title": "Mission: Impossible – The Final Reckoning",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj7miz2OMPDmcGmRm29EYHRkioc-ryRI6sKA&s"
+    },
+    {
+      "id": "ace6",
+      "title": "How to Train Your Dragon",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd4aI1gOZQo3vA01uvRLvkmeY4v8Si3WUT2w&s"
+    },
+    {
+      "id": "a20c",
+      "title": "Mersal",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY0_N7MeTIXPKJi-QTyv_kMZu7o2CFwPYuYA&s"
+    },
+    {
+      "id": "e859",
+      "title": "Kathi",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjUxMmZjZjAtNjNkNy00NTIxLThiZjItZTcwODY2ZDEzNDY4XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "id": "4160",
+      "title": "Billa",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_W1bfOeZpVUgKkOpbakVWXdzioPtUZb8FnQ&s"
+    }
+  ],
+  "bookings": [
+    {
+      "id": "01bc",
+      "movieId": "1",
+      "seats": [
+        "A1"
+      ]
+    },
+    {
+      "id": "ea63",
+      "movieId": "8468",
+      "seats": [
+        "B4"
+      ]
+    },
+    {
+      "id": "d23d",
+      "movieId": "8468",
+      "seats": [
+        "B3",
+        "B2"
+      ]
+    },
+    {
+      "id": "5041",
+      "movieId": "8468",
+      "seats": [
+        "A2"
+      ]
+    },
+    {
+      "id": "da1f",
+      "movieId": null,
+      "seats": [
+        "A2"
+      ]
+    },
+    {
+      "id": "402c",
+      "movieId": null,
+      "seats": [
+        "B4",
+        "B1",
+        "A1",
+        "A2",
+        "A3",
+        "A4",
+        "B3",
+        "B2"
+      ]
+    },
+    {
+      "id": "15c8",
+      "movieId": "1",
+      "seats": [
+        "A2",
+        "A3"
+      ]
+    }
+  ]
+}
